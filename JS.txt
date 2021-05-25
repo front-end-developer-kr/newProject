@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 github 신기해요
+=======
+Hello Git NewProject
+>>>>>>> 88a18081c49cc6c7ceab2ed506fe6b51d321aa6c
